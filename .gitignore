@@ -1,0 +1,10 @@
+##folders
+data/
+node_modules/
+nodejs/
+syntax/
+
+##files
+package-lock.json
+password.js
+lib/db.js
